@@ -1,4 +1,4 @@
-#jakelacaze.com
+# linksite
 
 This repo contains basic HTML and CSS used to create a [linktree](https://linktr.ee)-inspired landing page.
 
