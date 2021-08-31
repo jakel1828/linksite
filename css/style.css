@@ -1,0 +1,79 @@
+/* Main Elements */
+
+/* CSS reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Quicksand, 'Open Sans', sans-serif;
+  background: #f4f4f4;
+  color: #373737;
+}
+
+a {
+  color: #002F8B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Images */
+img {
+  border-radius: 50%;
+  width: 200px;
+  padding: 20px;
+}
+
+/* Text */
+
+h1 h2 h3 h4 h5 h6 {
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+
+h2 {
+  padding: 20px;
+}
+
+p {
+  padding: 10px 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  display: block;
+  padding: 20px;
+}
+
+/* Nav */
+nav {
+  padding: 20px 10px 10px;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 0 5px;
+}
+
+/* Button Styling */
+
+.btn {
+  display: inline-block;
+  padding: 20px;
+  margin: 10px auto;
+  color: #fff;
+  background: #002F8B;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+
+}
+
+.btn:hover {
+  background: #00205f;
+}
